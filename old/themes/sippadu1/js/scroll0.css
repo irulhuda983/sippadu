@@ -1,0 +1,12 @@
+/* scroller background: iframe BODY object */
+.Back {
+	background: #CBE6AA;
+
+}
+/* style to be applyed to all items' bodies - DIV
+	all local stylesheets of external files if any are to be ignored */
+.ItemBody {
+	font-family: Verdana;
+	font-size: 11px;
+	padding: 5px;
+}

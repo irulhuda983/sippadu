@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <?php $this->load->view('header'); ?>
+</head>
+<body>
+	<?php $this->load->view('top'); ?>
+
+	<main id="mainContent" tabindex="0">
+		
+		
+		<header class="pageHero videoHeader">
+			<div class="wrapper col-12">
+				<h1 class="pageTitle"><?php echo $title; ?></h1>
+			</div>
+		</header>
+		
+		<div class="wrapper col-12">
+			<section class="mainWidget latestFeatures " >
+				<div class="col-5 centered" style="text-align:center;">
+					<div class="searchDataContainer">
+						<div class="searchInputContainer" role="search">
+							<input id="keyword" type="text" value="<?php echo $keyword; ?>" placeholder="<?php echo lang('Cari data disini'); ?>" class="searchTextContainer searchInput" style="text-align:center">
+						</div>
+					</div>
+					<div class="btn reset" role="button" tabindex="0" id="btn-search" onclick="search();"><?php echo lang('Cari'); ?><div class="icn search-sm"></div></div>
+				</div>
+			</section>
+			<div id="content"></div>
+		</div>
+	</main>
+
+	<?php $this->load->view('footer'); ?>
+	<script>
+	
+	function search() {
+		var q = $('#keyword').val();
+		var divClone = $("#btn-search").clone();
+		$("#btn-search").html("<?php echo lang('Sedang mencari data. Silakan tunggu'); ?>........");
+		$.ajax({
+				type: "POST",
+				url : "<?php echo site_url(fmodule('search/data')); ?>/?time=" + new Date().getTime(),
+				data: {keyword:q,search:"true"},
+				success: function(msg){
+					$('#content').html(msg);
+					$("#btn-search").replaceWith(divClone);
+				}
+		});
+	};
+	search();
+	
+	$("#keyword").keyup(function(event) {
+		if (event.keyCode === 13) {
+			search();
+		}
+	});
+	
+	</script>
+</body>
+</html>

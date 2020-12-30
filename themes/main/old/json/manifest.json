@@ -1,0 +1,28 @@
+{
+  "short_name": "Premier League",
+  "name": "Premier League",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.pl.premierleague"
+    }
+  ],
+  "icons": [
+    {
+      "src": "//cdn.pulselive.com/test/client/pl/test/i/elements/plApp96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "//cdn.pulselive.com/test/client/pl/test/i/elements/plApp144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "//cdn.pulselive.com/test/client/pl/test/i/elements/plApp192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

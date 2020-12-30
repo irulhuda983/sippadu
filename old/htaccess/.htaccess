@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^sippadu.bojonegorokab.go.id$ [NC]
+RewriteRule ^(.*)$ http://sippadu.bojonegorokab.go.id:8080/$1 [L,R=301]
+
+
+
+#RewriteEngine on 
+#RewriteCond  %{SERVER_PORT} ^80$ 
+#RewriteRule ^(.*) http://%{SERVER_NAME}:8080%{REQUEST_URI} 
+
+#RewriteCond  %{SERVER_PORT} ^80$ 
+#RewriteRule .* http://example.com/index.php [L]

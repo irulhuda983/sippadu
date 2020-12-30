@@ -1,0 +1,1 @@
+<a href="javascript:void(0);" onclick="displayCalendarSelectBox(document.form1.year,document.form1.month,document.form1.day,false,false,this)"><img src="index.php_files/calendar_dis.gif" border="0"></a>

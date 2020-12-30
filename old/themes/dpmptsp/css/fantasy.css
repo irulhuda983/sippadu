@@ -1,0 +1,240 @@
+@media (min-width: 56.25em)
+
+.ism-page-landing .ism-header {
+    background-image: url(https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/home-header-bg-595.png?0f01ebe368a9);
+    background-position: right 17%;
+}
+@media (min-width: 640px)
+
+.ism-page-landing .ism-header {
+    background-position: right -4%;
+}
+
+.ism-page-landing .ism-header {
+    background-image: url(https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/home-header-bg-320.png?0f01ebe368a9);
+    background-position: right -35%;
+}
+@media (min-width: 56.25em)
+
+.ism .ism-header {
+    background-image: url(https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/header-bg-large.png?109fa73b2dbf);
+    background-position: right -250px top;
+}
+@media (min-width: 25em)
+
+.ism .ism-header {
+    background-position: right bottom;
+}
+
+.ism .ism-header {
+    background: #00FF87 url(https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/header-bg-226.png?630a32dd36b1) no-repeat right -50px bottom;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+.wrapper {
+    max-width: 1240px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+@media (min-width: 640px)
+
+.ism .ism-player-comp--header {
+    background-position: right bottom -15px;
+}
+
+.ism .ism-player-comp--header {
+    background-position: left bottom;
+}
+/* @media (min-width: 56.25em) */
+
+.ism-page-landing .ism-player-comp--1, .ism-event-info .ism-player-comp--1 {
+    background-image: url(https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-1-415.png?6fef4f627349);
+}
+
+.ism-page-landing .ism-player-comp--1, .ism-event-info .ism-player-comp--1 {
+    background-image: url(https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-1-320.png?6fef4f627349);
+}
+/* @media (min-width: 640px) */
+
+.ism-page-landing .ism-player-comp, .ism-event-info .ism-player-comp {
+    background-position: 95% bottom;
+}
+
+.ism-page-landing .ism-player-comp, .ism-event-info .ism-player-comp {
+    background-repeat: no-repeat;
+}
+
+/* @media (min-width: 56.25em) */
+
+.ism-page-landing .ism-game-header {
+    padding-top: 7.5rem;
+    padding-right: 430px;
+    padding-bottom: 5.5rem;
+}
+/* @media (min-width: 640px) */
+.ism-page-landing .ism-game-header {
+    padding-top: 5rem;
+    padding-right: 334px;
+    padding-bottom: 5rem;
+    padding-left: 1rem;
+}
+
+.ism-page-landing .ism-game-header {
+    padding-top: 1rem;
+    padding-bottom: 140px;
+}
+/* @media (min-width: 56.25em) */
+
+.ism .ism-game-header {
+    padding-top: 1.3rem;
+    padding-bottom: 1.3rem;
+}
+/* @media (min-width: 43.75em) */
+
+.ism .ism-game-header {
+    padding: 1rem 0;
+}
+/* @media (min-width: 38.125em) */
+
+.ism .ism-game-header {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+
+.ism .ism-game-header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 1rem;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "PremierSans-Bold",Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 2em;
+    margin: .67em 0;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+/* a {
+    background-color: transparent;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: auto;
+    text-decoration: underline;
+}
+
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: auto;
+    text-decoration: underline;
+} */
+
+/* @media (min-width: 56.25em) */
+
+.ism-page-landing .ism-game-header__sponsor {
+    width: 140px;
+    font-size: 1.2rem;
+}
+
+.ism-page-landing .ism-sponsor--header {
+    background-color: transparent;
+}
+
+.ism .ism-sponsor--header {
+    font-family: "PremierSans-Bold",Arial,"Helvetica Neue",Helvetica,sans-serif;
+    background-color: #00FF87;
+    color: rgba(36,36,36,0.65);
+}
+
+.ism .ism-sponsor {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    font-size: .9rem;
+    text-transform: uppercase;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.ism .ism-game-header__sponsor {
+    width: 120px;
+}
+
+
+p {
+    line-height: 1.6;
+    color: #242424;
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+
+.ism .ism-nav {
+    padding: 0;
+}
+
+.ism .ism-nav {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.priority-nav {
+    white-space: nowrap;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+
+/*@media(min-width:56.25em){.ism-page-landing .ism-header{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/home-header-bg-595.png?0f01ebe368a9');background-position:right 17%}}
+.ism .ism-header{background:#00FF87 url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/header-bg-226.png?630a32dd36b1') no-repeat right -50px bottom}
+.wrapper{max-width:1240px;margin-left:auto;margin-right:auto;padding-left:1rem;padding-right:1rem}.wrapper:after{content:" ";display:block;clear:both}.wrapper.col-12{float:none;padding-left:2rem;padding-right:2rem}@media(max-width:43.75em){.wrapper{padding-left:0;padding-right:0}.wrapper.col-12{padding-left:1rem;padding-right:1rem}}
+
+.ism-page-landing,.ism-event-info{}.ism-page-landing .ism-player-comp,.ism-event-info .ism-player-comp{background-repeat:no-repeat}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){.ism-page-landing .ism-player-comp,.ism-event-info .ism-player-comp{background-size:320px 169px}}@media(min-width:640px){.ism-page-landing .ism-player-comp,.ism-event-info .ism-player-comp{background-position:95% bottom}}@media only screen and (min-width:56.25em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min-resolution:192dpi),only screen and (min-width:56.25em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp,.ism-event-info .ism-player-comp{background-size:415px 201px}}@media(min-width:64em){.ism-page-landing .ism-player-comp,.ism-event-info .ism-player-comp{background-position:94% -40%}}@media only screen and (min-width:64em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:64em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:64em) and (min-resolution:192dpi),only screen and (min-width:64em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp,.ism-event-info .ism-player-comp{background-size:479px 266px}}.ism-page-landing .ism-player-comp--1,.ism-event-info .ism-player-comp--1{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-1-320.png?6fef4f627349')}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--1,.ism-event-info .ism-player-comp--1{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-1-640.png?6fef4f627349')}}@media(min-width:56.25em){.ism-page-landing .ism-player-comp--1,.ism-event-info .ism-player-comp--1{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-1-415.png?6fef4f627349')}}@media only screen and (min-width:56.25em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min-resolution:192dpi),only screen and (min-width:56.25em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--1,.ism-event-info .ism-player-comp--1{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-1-830.png?6fef4f627349')}}@media(min-width:64em){.ism-page-landing .ism-player-comp--1,.ism-event-info .ism-player-comp--1{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-1-479.png?6fef4f627349')}}@media only screen and (min-width:64em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:64em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:64em) and (min-resolution:192dpi),only screen and (min-width:64em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--1,.ism-event-info .ism-player-comp--1{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-1-958.png?6fef4f627349')}}.ism-page-landing .ism-player-comp--2,.ism-event-info .ism-player-comp--2{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-2-320.png?2aad4029ad03')}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--2,.ism-event-info .ism-player-comp--2{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-2-640.png?2aad4029ad03')}}@media(min-width:56.25em){.ism-page-landing .ism-player-comp--2,.ism-event-info .ism-player-comp--2{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-2-415.png?2aad4029ad03')}}@media only screen and (min-width:56.25em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min-resolution:192dpi),only screen and (min-width:56.25em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--2,.ism-event-info .ism-player-comp--2{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-2-830.png?2aad4029ad03')}}@media(min-width:64em){.ism-page-landing .ism-player-comp--2,.ism-event-info .ism-player-comp--2{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-2-479.png?2aad4029ad03')}}@media only screen and (min-width:64em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:64em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:64em) and (min-resolution:192dpi),only screen and (min-width:64em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--2,.ism-event-info .ism-player-comp--2{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-2-958.png?cbdaa54d8fe8')}}.ism-page-landing .ism-player-comp--3,.ism-event-info .ism-player-comp--3{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-3-320.png?2aad4029ad03')}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--3,.ism-event-info .ism-player-comp--3{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-3-640.png?5ae99a8f496b')}}@media(min-width:56.25em){.ism-page-landing .ism-player-comp--3,.ism-event-info .ism-player-comp--3{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-3-415.png?2aad4029ad03')}}@media only screen and (min-width:56.25em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min-resolution:192dpi),only screen and (min-width:56.25em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--3,.ism-event-info .ism-player-comp--3{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-3-830.png?5ae99a8f496b')}}@media(min-width:64em){.ism-page-landing .ism-player-comp--3,.ism-event-info .ism-player-comp--3{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-3-479.png?2aad4029ad03')}}@media only screen and (min-width:64em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:64em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:64em) and (min-resolution:192dpi),only screen and (min-width:64em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--3,.ism-event-info .ism-player-comp--3{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-3-958.png?0219a3ed2ff5')}}.ism-page-landing .ism-player-comp--4,.ism-event-info .ism-player-comp--4{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-4-320.png?2aad4029ad03')}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--4,.ism-event-info .ism-player-comp--4{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-4-640.png?5ae99a8f496b')}}@media(min-width:56.25em){.ism-page-landing .ism-player-comp--4,.ism-event-info .ism-player-comp--4{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-4-415.png?2aad4029ad03')}}@media only screen and (min-width:56.25em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min-resolution:192dpi),only screen and (min-width:56.25em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--4,.ism-event-info .ism-player-comp--4{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-4-830.png?5ae99a8f496b')}}@media(min-width:64em){.ism-page-landing .ism-player-comp--4,.ism-event-info .ism-player-comp--4{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-4-479.png?5ae99a8f496b')}}@media only screen and (min-width:64em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:64em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:64em) and (min-resolution:192dpi),only screen and (min-width:64em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--4,.ism-event-info .ism-player-comp--4{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-4-958.png?0219a3ed2ff5')}}.ism-page-landing .ism-player-comp--5,.ism-event-info .ism-player-comp--5{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-5-320.png?2aad4029ad03')}@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--5,.ism-event-info .ism-player-comp--5{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-5-640.png?5ae99a8f496b')}}@media(min-width:56.25em){.ism-page-landing .ism-player-comp--5,.ism-event-info .ism-player-comp--5{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-5-415.png?2aad4029ad03')}}@media only screen and (min-width:56.25em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:56.25em) and (min-resolution:192dpi),only screen and (min-width:56.25em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--5,.ism-event-info .ism-player-comp--5{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-5-830.png?5ae99a8f496b')}}@media(min-width:64em){.ism-page-landing .ism-player-comp--5,.ism-event-info .ism-player-comp--5{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-5-479.png?2aad4029ad03')}}@media only screen and (min-width:64em) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:64em) and (min--moz-device-pixel-ratio:2),only screen and (min-width:64em) and (min-resolution:192dpi),only screen and (min-width:64em) and (min-resolution:2dppx){.ism-page-landing .ism-player-comp--5,.ism-event-info .ism-player-comp--5{background-image:url('https://ismdj.scdn5.secure.raxcdn.com/static/libsass/plfpl/dist/img/player-comps/player-comp-5-958.png?0219a3ed2ff5')}}.ism{}.ism .ism-player-comp--header{background-position:left bottom}@media(min-width:640px){.ism .ism-player-comp--header{background-position:right bottom -15px}}@media(min-width:64em){.ism .ism-player-comp--header{background-position:right top -40%}}@media(max-width:43.6875em){.ism .ism-player-comp--event-info{background-image:none}}
+
+
+.ism-page-landing .ism-game-header{padding-top:1rem;padding-bottom:140px}.ism-page-landing .ism-game-header__logo{width:150px;height:41px}.ism-page-landing .ism-sponsor--header{background-color:transparent}*/

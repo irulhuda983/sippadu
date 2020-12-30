@@ -1,0 +1,122 @@
+.masthead .pageLinks>li.featuredLink .navLink.active{/* background-color:#04f5ff; */color:#ff0000}
+.masthead .navLink.featuredLink{/* background-color:#04f5ff; */color:#ff0000}
+.masthead .navLink.featuredLink:before{background:#ff0000}
+.masthead .menuBtn{background:#ff0000;}
+.masthead .navBar{background:#ff0000;}
+.masthead .mainNav:after{background:#ff0000;}
+.masthead .pageLinks>li:hover .navLink{background:#ff0000}
+.masthead .mainNav .navLink{background:#ff0000}
+.subNav ul .more .moreToggle{color:#ff0000}
+.mainFooter .footerContent{background:#ff0000;padding:7rem 0 5rem;background-image:url(../../i/bg-elements/footer-left.png),url(../../i/bg-elements/footer-right.png);background-position:0 100%,100% 0;background-repeat:no-repeat}
+.mobileExtraNav .current{background:#ff0000}
+@-webkit-keyframes c{0%{background:#ff0000}33%{background:#267788}66%{background:#04f5ff}to{background:#ff4343}}@keyframes c{0%{background:#ff0000}33%{background:#267788}66%{background:#04f5ff}to{background:#ff4343}}@-webkit-keyframes d{0%{width:0}to{width:10rem}}@keyframes d{0%{width:0}to{width:10rem}}
+.btn-primary{background:#ff0000}
+.thumbnail.videoThumb .runTime .audioDesc{background:#ff0000}
+.table tr.expanded{background:#ff0000;}
+.table tr.expanded td{border-bottom-color:#ff0000}
+.table .expandable{border-bottom:5px solid #ff0000;}
+.shareTxt{background:#ff0000;}
+.matchAbridged .score{background:#ff0000;}
+.filterWidget .filterWidgetMobileHeader{background:#ff0000;}
+.dropDown.active .current:focus,.dropDown.active .current:hover{color:#ff0000}
+.dropDown.active .current:focus:before,.dropDown.active .current:hover:before{background:#ff0000}
+.dropDown.open .current:focus,.dropDown.open .current:hover{color:#ff0000}.dropDown.open .current:focus:before,.dropDown.open .current:hover:before{background:#ff0000}
+.tabbedContent [data-ui-tab]:before{content:"";display:block}.tabbedContent [data-ui-tab]:after{content:"";display:table;clear:both}.tabbedContent [data-ui-tab].active{display:block}.sideTabsContainer [data-ui-tab]{border-left:1px solid #ff0000}
+.sideTabsContainer .tablist li.active,.sideTabsContainer .tablist li:hover{background:#ff0000}
+.heroArticle:before{background:#ff0000 url(../../i/bg-elements/thumb-hero-highlight.svg)}
+.heroArticle .col-12{background:#ff0000;}
+.heroArticle.alternate .heroThumb{color:#ff0000}
+.heroArticle.alternate .heroThumb p{color:#ff0000}
+.heroArticle.alternate .relatedArticle,.heroArticle.alternate .relatedArticle p{color:#ff0000}
+.heroArticle.goodCauses .heroThumb .tag,.heroArticle.goodCauses .heroThumb .title{color:#ff0000}
+.heroArticle.goodCauses .col-4{border-color:#ff0000}
+.heroArticle.goodCauses .relatedArticle p{color:#ff0000}
+.heroArticle.gallery span.heroArticle__type-tag{background:#ff0000;}
+.heroArticle.breakingNews .heroThumb .tag{background:#ff0000;}
+.heroArticle.fantasy .heroThumb .tag,.heroArticle.fantasy .heroThumb .title,.heroArticle.fantasy .heroThumb p{color:#ff0000}
+.heroArticle.fantasy .col-4{border-color:#ff0000}
+.heroArticle.fantasy .relatedArticle,.heroArticle.fantasy .relatedArticle p{color:#ff0000}
+.heroArticle.transfer .heroThumb .tag,.heroArticle.transfer .heroThumb .title,.heroArticle.transfer .heroThumb p{color:#ff0000}
+.heroArticle.transfer .col-4{border-color:#ff0000}
+.heroArticle.transfer .relatedArticle,.heroArticle.transfer .relatedArticle p{color:#ff0000}
+.heroThumb{background:#ff0000;}
+.heroThumb .ginfo .audioDesc,.heroThumb .runTime .audioDesc{background:#ff0000}
+.heroThumb svg{fill:#ff0000;}
+.toggle{background:#ff0000}
+.toggle li:focus,.toggle li:hover{background:#ff0000}
+.toggle li.active,.toggle li.active:hover{color:#ff0000}
+.plBroadcastModalContent .audioDesc .label,.plModalContent .audioDesc .label{color:#ff0000;}
+.searchBar input[type=text]{color:#ff0000;}
+.pageFilter .mobileHeader{background:#ff0000;}
+.pageFilter.open .reset{background:#ff0000;}
+@media (max-width:43.75em){.blogHeader .summary .toggleButton{background-color:#ff0000;}}
+@media (max-width:43.75em){.blogHeader .summary .toggleButton .active{color:#ff0000;border:3px solid #ff0000;}}
+.promo-widget{background-color:#ff0000}
+.notificationBar{background:#ff0000;}
+.singleVideo__audioDesc .label{background:#ff0000;}
+.fixturesAbridgedHeader .matchweekHeaderTitle{color:#ff0000;}
+.standingsAbridged .widgetSubHeader{background:#ff0000;}
+.socialSection .socialCard.imageCard .cardContent{background-color:#ff0000;}
+.socialSection .socialCard.imageCard .cardContent .mob-heroSvg.clubColourSvg{fill:#ff0000}
+.homepageTakeover .homepageTakeover__content .matchAbridged:focus,.homepageTakeover .homepageTakeover__content .matchAbridged:hover{background:#ff0000}
+.homepageTakeover .matchEvents{background:#ff0000;}
+.homepageTakeover .matchEvents .assists .title{background:#ff0000;}
+.homepageTakeover .homepageTakeover__content .matchAbridged:hover .score{background:#ff0000;}
+.fantasy-league .fantasyClubContainer .articleContainer .articleContainer_subtitle span{background-color:#ff0000;}
+.commercialPartners .moreInfo .infoBottom{background:#ff0000}
+.commericalArticles .block-list-4{background:#ff0000}
+.commericalArticles .thumbnail{background:#ff0000}
+.questionsContainer{border-left:1px solid #ff0000}
+.answerCheck{background:#ff0000;}
+.notFoundPage .btn:focus,.notFoundPage .btn:hover{background:#ff0000}
+.bespokePromo .btn:focus,.bespokePromo .btn:hover{background:#ff0000}
+.pageHero{background:#ff0000;}
+.pageTitle{color:#ff0000;}
+.pageHero.goodCauses .pageTitle{color:#ff0000}
+.pageHero .subHeader{color:#ff4343}
+
+
+.masthead .dropdown{background:#ff4343;}
+.masthead .dropdown:before{border-bottom-color:#ff4343;}
+.masthead .menuBtn{sborder-left:1px solid #ff4343;}
+.masthead a.navLink:before{background:#ff4343;}
+.subNav a:focus:before,.subNav a:hover:before{background:#ff4343}
+.subNav a.active:before{background:#ff4343}
+.searchOverlay{background:#ff4343;}
+.masthead .search .searchBtn.active{background:#ff4343}
+.searchBar .focusBorder{background:#ff4343;}
+.searchBar .searchBtnContainer.active .btnBg{background:#ff4343}
+.searchBar .searchBtnContainer .searchInputBtn:focus+.btnBg,.searchBar .searchBtnContainer .searchInputBtn:hover+.btnBg{background:#ff4343}
+.pageFilter .mobileHeader{border-bottom:4px solid #ff4343;}
+.pageFilter .mobileHeader .close{background:#ff4343;}
+.mastheadOpen .masthead .menuBtn{background:#ff4343}
+.thumbnail .tag{color:#ff4343;}
+.btn:focus,.btn:hover,[class*=btn-]:focus,[class*=btn-]:hover{background:#ff4343;}
+
+/*1554bb*/
+.searchBar .searchBtnContainer.active:hover{background:#ff4343}
+.searchBar .searchBtnContainer.active .searchInputBtn:focus+.btnBg,.searchBar .searchBtnContainer.active .searchInputBtn:hover+.btnBg{background:#ff4343}
+.masthead .mainNav .navLink:focus:focus{background:#ff4343}.masthead .mainNav .navLink.active.active{background-color:#ff4343;}
+.masthead .search .searchBtn.active:focus{background:#ff4343}
+
+
+.financialStandingsTable .tableDark,.financialStandingsTable .tableDark td.equalShare:before{background:#e4e4e4}.financialStandingsTable .tableMid{background:#eee}.financialStandingsTable .tableMid td{border-top:none}.financialStandingsTable .tableMid td.equalShare:before{background:#eee}.financialStandingsTable .tableLight,.financialStandingsTable .tableLight td.equalShare:before{background:#f8f8f8}.financialStandingsTable.tableDark .dark,.financialStandingsTable .tableDark .revealMore.on,.financialStandingsTable .tableLight .dark,.financialStandingsTable .tableLight .revealMore.on,.financialStandingsTable .tableMid .dark,.financialStandingsTable .tableMid .revealMore.on{background:#ff0000}
+
+.financialStandingsTable .tableDark .revealMore.on:focus,.financialStandingsTable .tableDark .revealMore.on:hover,.financialStandingsTable .tableLight .revealMore.on:focus,.financialStandingsTable .tableLight .revealMore.on:hover,.financialStandingsTable .tableMid .revealMore.on:focus,.financialStandingsTable .tableMid .revealMore.on:hover{border-bottom-color:#e8e8e8;background:#ff4343}
+
+.table tr.expanded .revealMore{background:#ff4343;border-bottom-color:#ff4343}
+.table tr.expanded .revealMore:hover{background:#ff0000;border-bottom-color:#ff0000}
+.table .revealMore:focus,.table .revealMore:hover{background:#ff4343;border-bottom-color:#ff4343}
+.btn-highlight {background: #ff4343;color: #fff;}
+.btn-highlight:hover {background: #ff0000;color: #fff;}
+
+.tooltipContainer.tooltip-link:focus .tooltip-content:after,.tooltipContainer.tooltip-link:hover .tooltip-content:after{border-top-color:#ff4343}.tooltipContainer.tooltip-link:focus .matchAbridged,.tooltipContainer.tooltip-link:hover .matchAbridged{color:#fff;background:#ff4343}.tooltipContainer.tooltip-link:focus .matchAbridged .matchInfo,.tooltipContainer.tooltip-link:hover .matchAbridged .matchInfo{color:#fff}
+
+.tooltipContainer.tooltip-link:focus .matchAbridged time,.tooltipContainer.tooltip-link:hover .matchAbridged time{background:#fff;color:#ff4343}.tooltipContainer.tooltip-link .tooltip-content{padding:0}.tooltipContainer.tooltip-link .tooltip-content:focus,.tooltipContainer.tooltip-link .tooltip-content:hover{background:#ff4343}.tooltipContainer.tooltip-link .tooltip-content:focus:after,.tooltipContainer.tooltip-link .tooltip-content:hover:after{border-top-color:#ff4343}
+
+.genericPage .articleHeader{color:#ff0000}
+.articleHeader{background:#ff0000;color:#fff;}
+.articleHeader .newsTag{color:#9e9e9e;}
+.articleHeader .articleAuth{color:#9e9e9e}
+
+.searchBar{position:absolute;width:100%;height:15rem;top:-15rem;transition:all .4s cubic-bezier(.645,.045,.355,1);box-shadow:2px 2px 2px 1px rgba(0,0,0,.2);

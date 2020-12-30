@@ -1,0 +1,157 @@
+.masthead .pageLinks>li.featuredLink .navLink.active{/* background-color:#04f5ff; */color:#009da0}
+.masthead .navLink.featuredLink{/* background-color:#04f5ff; */color:#009da0}
+.masthead .navLink.featuredLink:before{background:#009da0}
+.masthead .menuBtn{background:#009da0;}
+.masthead .navBar{background:#009da0;}
+.masthead .mainNav:after{background:#009da0;}
+.masthead .pageLinks>li:hover .navLink{background:#009da0}
+.masthead .mainNav .navLink{background:#009da0}
+.subNav ul .more .moreToggle{color:#009da0}
+.mainFooter .footerContent{background:#009da0;}
+@media (min-width:56.25em){.mainFooter .footerContent{background:#009da0;padding:7rem 0 5rem;background-image:url(../../i/bg-elements/footer-left.png),url(../../i/bg-elements/footer-right.png);background-position:0 100%,100% 0;background-repeat:no-repeat}}
+.mobileExtraNav .current{background:#009da0}
+@-webkit-keyframes c{0%{background:#009da0}33%{background:#267788}66%{background:#04f5ff}to{background:#00b3b6}}@keyframes c{0%{background:#009da0}33%{background:#267788}66%{background:#04f5ff}to{background:#00b3b6}}@-webkit-keyframes d{0%{width:0}to{width:10rem}}@keyframes d{0%{width:0}to{width:10rem}}
+.btn-primary{background:#009da0}
+.thumbnail.videoThumb .runTime .audioDesc{background:#009da0}
+.table tr.expanded{background:#009da0;}
+.table tr.expanded td{border-bottom-color:#009da0}
+.table .expandable{border-bottom:5px solid #009da0;}
+.shareTxt{background:#009da0;}
+.matchAbridged .score{background:#009da0;}
+.filterWidget .filterWidgetMobileHeader{background:#009da0;}
+.dropDown.active .current:focus,.dropDown.active .current:hover{color:#009da0}
+.dropDown.active .current:focus:before,.dropDown.active .current:hover:before{background:#009da0}
+.dropDown.open .current:focus,.dropDown.open .current:hover{color:#009da0}.dropDown.open .current:focus:before,.dropDown.open .current:hover:before{background:#009da0}
+.tabbedContent [data-ui-tab]:before{content:"";display:block}.tabbedContent [data-ui-tab]:after{content:"";display:table;clear:both}.tabbedContent [data-ui-tab].active{display:block}.sideTabsContainer [data-ui-tab]{border-left:1px solid #009da0}
+.sideTabsContainer .tablist li.active,.sideTabsContainer .tablist li:hover{background:#009da0}
+.heroArticle:before{background:#009da0 url(../../i/bg-elements/thumb-hero-highlight.svg)}
+.heroArticle .col-12{background:#009da0;}
+.heroArticle.alternate .heroThumb{color:#009da0}
+.heroArticle.alternate .heroThumb p{color:#009da0}
+.heroArticle.alternate .relatedArticle,.heroArticle.alternate .relatedArticle p{color:#009da0}
+.heroArticle.goodCauses .heroThumb .tag,.heroArticle.goodCauses .heroThumb .title{color:#009da0}
+.heroArticle.goodCauses .col-4{border-color:#009da0}
+.heroArticle.goodCauses .relatedArticle p{color:#009da0}
+.heroArticle.gallery span.heroArticle__type-tag{background:#009da0;}
+.heroArticle.breakingNews .heroThumb .tag{background:#009da0;}
+.heroArticle.fantasy .heroThumb .tag,.heroArticle.fantasy .heroThumb .title,.heroArticle.fantasy .heroThumb p{color:#009da0}
+.heroArticle.fantasy .col-4{border-color:#009da0}
+.heroArticle.fantasy .relatedArticle,.heroArticle.fantasy .relatedArticle p{color:#009da0}
+.heroArticle.transfer .heroThumb .tag,.heroArticle.transfer .heroThumb .title,.heroArticle.transfer .heroThumb p{color:#009da0}
+.heroArticle.transfer .col-4{border-color:#009da0}
+.heroArticle.transfer .relatedArticle,.heroArticle.transfer .relatedArticle p{color:#009da0}
+.heroThumb{background:#009da0;}
+.heroThumb .ginfo .audioDesc,.heroThumb .runTime .audioDesc{background:#009da0}
+.heroThumb svg{fill:#009da0;}
+.toggle{background:#009da0}
+.toggle li:focus,.toggle li:hover{background:#009da0}
+.toggle li.active,.toggle li.active:hover{color:#009da0}
+.plBroadcastModalContent .audioDesc .label,.plModalContent .audioDesc .label{color:#009da0;}
+.searchBar input[type=text]{color:#009da0;}
+.pageFilter .mobileHeader{background:#009da0;}
+.pageFilter.open .reset{background:#009da0;}
+@media (max-width:43.75em){.blogHeader .summary .toggleButton{background-color:#009da0;}}
+@media (max-width:43.75em){.blogHeader .summary .toggleButton .active{color:#009da0;border:3px solid #009da0;}}
+.promo-widget{background-color:#009da0}
+.notificationBar{background:#009da0;}
+.singleVideo__audioDesc .label{background:#009da0;}
+.fixturesAbridgedHeader .matchweekHeaderTitle{color:#009da0;}
+.standingsAbridged .widgetSubHeader{background:#009da0;}
+.socialSection .socialCard.imageCard .cardContent{background-color:#009da0;}
+.socialSection .socialCard.imageCard .cardContent .mob-heroSvg.clubColourSvg{fill:#009da0}
+.homepageTakeover .homepageTakeover__content .matchAbridged:focus,.homepageTakeover .homepageTakeover__content .matchAbridged:hover{background:#009da0}
+.homepageTakeover .matchEvents{background:#009da0;}
+.homepageTakeover .matchEvents .assists .title{background:#009da0;}
+.homepageTakeover .homepageTakeover__content .matchAbridged:hover .score{background:#009da0;}
+.fantasy-league .fantasyClubContainer .articleContainer .articleContainer_subtitle span{background-color:#009da0;}
+.commercialPartners .moreInfo .infoBottom{background:#009da0}
+.commericalArticles .block-list-4{background:#009da0}
+.commericalArticles .thumbnail{background:#009da0}
+.questionsContainer{border-left:1px solid #009da0}
+.answerCheck{background:#009da0;}
+.notFoundPage .btn:focus,.notFoundPage .btn:hover{background:#009da0}
+.bespokePromo .btn:focus,.bespokePromo .btn:hover{background:#009da0}
+.pageHero{background:#009da0;}
+.pageTitle{color:#009da0;}
+.pageHero.goodCauses .pageTitle{color:#009da0}
+.full-width-poppy-promo{background:#009da0;}
+.galleryArticle{background-color:#009da0;}
+.thumbnail .openModal:focus .expandIcon,.thumbnail .openModal:hover .expandIcon{fill:#009da0}
+.plBroadcastModal,.plModal{background:#009da0;}
+.plBroadcastModal .close,.plModal .close{background:#009da0;}
+.plBroadcastModal .close:focus,.plBroadcastModal .close:hover,.plModal .close:focus,.plModal .close:hover{background:#009da0}
+a.fixture:focus,a.fixture:hover,div.fixture:focus,div.fixture:hover{background:#009da0;color:#fff}
+.pageHero .subHeader{color:#009da0}
+.masthead .dropdown{background:#009da0;}
+.full-width-poppy-promo{background:#009da0;}
+.galleryArticle{background-color:#009da0;}
+.thumbnail .openModal:focus .expandIcon,.thumbnail .openModal:hover .expandIcon{fill:#009da0}
+.plBroadcastModal,.plModal{background:#009da0;}
+.plBroadcastModal .close,.plModal .close{background:#009da0;}
+.plBroadcastModal .close:focus,.plBroadcastModal .close:hover,.plModal .close:focus,.plModal .close:hover{background:#009da0}
+a.fixture:focus,a.fixture:hover,div.fixture:focus,div.fixture:hover{background:#009da0;color:#fff}
+.slideshow-container{background-color:#009da0;}
+
+
+.masthead .dropdown:before{border-bottom-color:#00b3b6;}
+.masthead .menuBtn{sborder-left:1px solid #00b3b6;}
+.masthead a.navLink:before{background:#00b3b6;}
+.subNav a:focus:before,.subNav a:hover:before{background:#00b3b6}
+.subNav a.active:before{background:#00b3b6}
+.searchOverlay{background:#00b3b6;}
+.masthead .search .searchBtn.active{background:#00b3b6}
+.searchBar .focusBorder{background:#00b3b6;}
+.searchBar .searchBtnContainer.active .btnBg{background:#00b3b6}
+.searchBar .searchBtnContainer .searchInputBtn:focus+.btnBg,.searchBar .searchBtnContainer .searchInputBtn:hover+.btnBg{background:#00b3b6}
+.pageFilter .mobileHeader{border-bottom:4px solid #00b3b6;}
+.pageFilter .mobileHeader .close{background:#00b3b6;}
+.mastheadOpen .masthead .menuBtn{background:#00b3b6}
+.thumbnail .tag{color:#00b3b6;}
+.searchInputContainer .searchCommit:focus,.searchInputContainer .searchCommit:hover{background:#00b3b6}
+::-moz-selection{background:#00b3b6;color:#fff}::selection{background:#00b3b6;color:#fff}
+.standardArticle>p span::-moz-selection{background:#04f5ff;color:#00b3b6}.standardArticle>p span::selection{background:#04f5ff;color:#00b3b6}
+.standardArticle.featured p span::-moz-selection{background:#04f5ff;color:#00b3b6}
+input:focus{border-color:#00b3b6;outline: none !important;}
+.searchInputContainer .searchInput:focus{border-bottom-color:#00b3b6}
+.pageHero.videoHeader .searchInputContainer .searchInput:focus{border-bottom-color:#00b3b6}
+.masthead .mainNav{border-top:2px solid #00b3b6;}
+.masthead{background-color:#00b3b6}
+
+
+.btn:focus,.btn:hover,[class*=btn-]:focus,[class*=btn-]:hover{background:#00b3b6;}
+.matchAbridged.live .score,.matchAbridged.live:focus,.matchAbridged.live:hover{background:#00b3b6;color:#fff}.matchAbridged.live:focus .matchMinuteContainer,.matchAbridged.live:hover .matchMinuteContainer{color:#fff}.matchAbridged.live:focus .score,.matchAbridged.live:hover .score{background:#fff;color:#00b3b6}.matchAbridged.active{background:#00b3b6;color:#fff}.matchAbridged.active .score,.matchAbridged.active time{background:#fff;color:#00b3b6}
+.matchAbridged:focus,.matchAbridged:hover{background:#00b3b6;color:#fff}
+@media (max-width:43.75em){.matchAbridged:focus,.matchAbridged:hover{background:#00b3b6;color:#fff}}
+.matchAbridged:focus time,.matchAbridged:hover time{background:#fff;color:#00b3b6}
+
+/*1554bb*/
+.searchBar .searchBtnContainer.active:hover{background:#00b3b6}
+.searchBar .searchBtnContainer.active .searchInputBtn:focus+.btnBg,.searchBar .searchBtnContainer.active .searchInputBtn:hover+.btnBg{background:#00b3b6}
+.masthead .mainNav .navLink:focus:focus{background:#00b3b6}.masthead .mainNav .navLink.active.active{background-color:#00b3b6;}
+.masthead .search .searchBtn.active:focus{background:#00b3b6}
+
+
+.financialStandingsTable .tableDark,.financialStandingsTable .tableDark td.equalShare:before{background:#e4e4e4}.financialStandingsTable .tableMid{background:#eee}.financialStandingsTable .tableMid td{border-top:none}.financialStandingsTable .tableMid td.equalShare:before{background:#eee}.financialStandingsTable .tableLight,.financialStandingsTable .tableLight td.equalShare:before{background:#f8f8f8}.financialStandingsTable.tableDark .dark,.financialStandingsTable .tableDark .revealMore.on,.financialStandingsTable .tableLight .dark,.financialStandingsTable .tableLight .revealMore.on,.financialStandingsTable .tableMid .dark,.financialStandingsTable .tableMid .revealMore.on{background:#009da0}
+
+.financialStandingsTable .tableDark .revealMore.on:focus,.financialStandingsTable .tableDark .revealMore.on:hover,.financialStandingsTable .tableLight .revealMore.on:focus,.financialStandingsTable .tableLight .revealMore.on:hover,.financialStandingsTable .tableMid .revealMore.on:focus,.financialStandingsTable .tableMid .revealMore.on:hover{border-bottom-color:#e8e8e8;background:#00b3b6}
+
+.table tr.expanded .revealMore{background:#00b3b6;border-bottom-color:#00b3b6}
+.table tr.expanded .revealMore:hover{background:#009da0;border-bottom-color:#009da0}
+.table .revealMore:focus,.table .revealMore:hover{background:#00b3b6;border-bottom-color:#00b3b6}
+.btn-highlight {background: #00b3b6;color: #fff;}
+.btn-highlight:hover {background: #009da0;color: #fff;}
+
+.tooltipContainer.tooltip-link:focus .tooltip-content:after,.tooltipContainer.tooltip-link:hover .tooltip-content:after{border-top-color:#00b3b6}.tooltipContainer.tooltip-link:focus .matchAbridged,.tooltipContainer.tooltip-link:hover .matchAbridged{color:#fff;background:#00b3b6}.tooltipContainer.tooltip-link:focus .matchAbridged .matchInfo,.tooltipContainer.tooltip-link:hover .matchAbridged .matchInfo{color:#fff}
+
+.tooltipContainer.tooltip-link:focus .matchAbridged time,.tooltipContainer.tooltip-link:hover .matchAbridged time{background:#fff;color:#00b3b6}.tooltipContainer.tooltip-link .tooltip-content{padding:0}.tooltipContainer.tooltip-link .tooltip-content:focus,.tooltipContainer.tooltip-link .tooltip-content:hover{background:#00b3b6}.tooltipContainer.tooltip-link .tooltip-content:focus:after,.tooltipContainer.tooltip-link .tooltip-content:hover:after{border-top-color:#00b3b6}
+
+
+.genericPage .articleHeader{color:#009da0}
+.articleHeader{background:#009da0;color:#fff;}
+.articleHeader .newsTag{color:#9e9e9e;}
+.articleHeader .articleAuth{color:#9e9e9e}
+
+.searchBar{position:absolute;width:100%;height:15rem;top:-15rem;transition:all .4s cubic-bezier(.645,.045,.355,1);box-shadow:2px 2px 2px 1px rgba(0,0,0,.2);}
+.galleryContainer .pageHeader .pageTitle{color:#ffffff;}
+.thumbnail.albumThumb .ginfo{background:#009da0;color:#fff;}
+.thumbnail.albumThumb .ginfo .count{background:#009da0;color:#fff;}
